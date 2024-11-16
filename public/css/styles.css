@@ -1,0 +1,7 @@
+.subtitle {
+    cursor: pointer;
+}
+
+.subtitle.highlight {
+    background-color: yellow;
+}
